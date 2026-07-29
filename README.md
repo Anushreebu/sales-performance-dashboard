@@ -30,3 +30,6 @@ This project analyzes sales data using Python and Power BI to uncover sales tren
 - Sales_Dashboard.pbix
 - Cleaned datasets
 - Dashboard screenshot
+  
+- ## 📈 Dashboard Preview
+![Dashboard](images/dashboard.png)
