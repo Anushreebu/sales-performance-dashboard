@@ -32,4 +32,4 @@ This project analyzes sales data using Python and Power BI to uncover sales tren
 - Dashboard screenshot
   
 - ## 📈 Dashboard Preview
-![Dashboard](images/dashboard.png)
+![Dashboard](images/Sales_performance_dashboard.png)
